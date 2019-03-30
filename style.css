@@ -1447,3 +1447,11 @@ p.custom-field-class
     }
 
 }
+.email {
+  padding-bottom: 50px;
+}
+.shape {
+  border-radius: 100px;
+  margin: 0 auto;
+  display: block;
+}
